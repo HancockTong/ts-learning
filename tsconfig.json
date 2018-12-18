@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "outDir": "lib",
+    "target": "es2015",
+    "declaration": true,
+    "jsx": "react",
+    "strict": false,
+    "strictFunctionTypes": true,
+    "types": [
+      "csstype"
+    ]
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "lib"
+  ]
+}

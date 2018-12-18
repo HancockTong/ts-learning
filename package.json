@@ -1,0 +1,30 @@
+{
+  "name": "ts-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HancockTong/ts-learning.git"
+  },
+  "author": "Hanyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HancockTong/ts-learning/issues"
+  },
+  "homepage": "https://github.com/HancockTong/ts-learning#readme",
+  "devDependencies": {
+    "@types/react": "^16.3.13",
+    "@types/react-dom": "^16.0.5",
+    "ts-node": "^6.0.3",
+    "typescript": "^2.8.3"
+  },
+  "dependencies": {
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2"
+  }
+}
