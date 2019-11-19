@@ -17,14 +17,27 @@
     "url": "https://github.com/HancockTong/ts-learning/issues"
   },
   "homepage": "https://github.com/HancockTong/ts-learning#readme",
-  "devDependencies": {
-    "@types/react": "^16.3.13",
-    "@types/react-dom": "^16.0.5",
-    "ts-node": "^6.0.3",
-    "typescript": "^2.8.3"
-  },
   "dependencies": {
-    "react": "^16.3.2",
-    "react-dom": "^16.3.2"
+    "@types/react": "^16.7.13",
+    "@types/react-dom": "^16.0.11",
+    "@types/react-redux": "^6.0.10",
+    "@types/react-router-dom": "^4.3.1",
+    "@types/redux-logger": "^3.0.6",
+    "connected-react-router": "^5.0.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "source-map-loader": "^0.2.4",
+    "ts-loader": "^5.3.1",
+    "typescript": "^3.2.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
   }
 }
